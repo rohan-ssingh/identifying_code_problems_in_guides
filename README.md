@@ -18,5 +18,5 @@ This paper compared ChatGPT API against static code analysis programs to see its
 
 4. Zhang, J., Bu, H., Wen, H. et al. When LLMs meet cybersecurity: a systematic literature review. Cybersecurity 8, 55 (2025). https://doi.org/10.1186/s42400-025-00361-w
 
-A review detailling various methods: traditional machine learning and more recently developed Large Language Models (such as OpenAI's GPT) to be used for malicious code detection. The reivew, as a whole, found that LLM's are better than traditional methods
+A review detailling various methods: traditional machine learning and more recently developed Large Language Models (such as OpenAI's GPT) to be used for malicious code detection. The reivew, as a whole, found that LLM's are better than traditional machine learning methods in identifying and fixing malicious code, however, 
 
