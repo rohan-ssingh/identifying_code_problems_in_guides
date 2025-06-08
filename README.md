@@ -15,3 +15,8 @@ A project which explored GPT 3 and 4 against vulnerabilites and bugs such as the
 3. Omer Said Ozturk, Emre Ekmekcioglu, Orcun Cetin, Budi Arief, and Julio Hernandez-Castro. 2023. New Tricks to Old Codes: Can AI Chatbots Replace Static Code Analysis Tools? In Proceedings of the 2023 European Interdisciplinary Cybersecurity Conference (EICC '23). Association for Computing Machinery, New York, NY, USA, 13–18. https://doi.org/10.1145/3590777.3590780
 
 This paper compared ChatGPT API against static code analysis programs to see its accuracy. While the OpenAI API did outperform the static code analysis programs, the API had a high false positive rate, indicating that any future project must work to minimize the possible false positives produced by the algorithm.
+
+4. Zhang, J., Bu, H., Wen, H. et al. When LLMs meet cybersecurity: a systematic literature review. Cybersecurity 8, 55 (2025). https://doi.org/10.1186/s42400-025-00361-w
+
+A review detailling various methods: traditional machine learning and more recently developed Large Language Models (such as OpenAI's GPT) to be used for 
+
