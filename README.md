@@ -20,3 +20,6 @@ This paper compared ChatGPT API against static code analysis programs to see its
 
 A review detailling various methods: traditional machine learning and more recently developed Large Language Models (such as OpenAI's GPT) to be used for malicious code detection. The reivew, as a whole, found that LLM's are better than traditional machine learning methods in identifying and fixing malicious code, however, LLM's struggle with a high false positive rate. This means that a project would need to ensure that any discovered potential malicious code examples would need to be verified (*possibly through calls from other models to validate the findings?*) to ensure that the problem is truly a problem and not simply a false positive.
 
+5. https://research.tees.ac.uk/ws/portalfiles/portal/77055020/1-s2.0-S0957417423016858-main.pdf
+
+This tool analyzes a website's source code to check its embedded URLs and code to see if it is possibly a website used for phishing. 
