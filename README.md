@@ -22,4 +22,4 @@ A review detailling various methods: traditional machine learning and more recen
 
 5. https://research.tees.ac.uk/ws/portalfiles/portal/77055020/1-s2.0-S0957417423016858-main.pdf
 
-This tool analyzes a website's source code to check its embedded URLs and code to see if it is possibly a website used for phishing. 
+This tool analyzes a website's source code to check its embedded URLs and code to see if it is possibly a website used for phishing. It takes in a site's URL along with its HTML code, and then converts it into an embedding, and then uses a convolutional neural network, trained on data from Alexa, to see if it could possibly be related to phishing usage. It achieved a pretty high accuracy compared to other methods.
