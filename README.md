@@ -2,7 +2,7 @@
 
 This project will be exploring a tool that automatically determines if a programming guide contains vulnerabilities, deprecated code, etc.
 
-Based on the current literature review, an AI method to analyze the source code would be best to employ. A Chrome extension would be best employed to extract 
+Based on the current literature review, an AI method to analyze the source code would be best to employ. A Chrome extension would be best employed to extract website HTML data.
 
 Literature Review:
 
