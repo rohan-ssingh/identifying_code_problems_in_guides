@@ -28,6 +28,5 @@ This tool analyzes a website's source code to check its embedded URLs and code t
 
 6. Sajadi, A., Le, B., Nguyen, A. et al. Do LLMs consider security? an empirical study on responses to programming questions. Empir Software Eng 30, 101 (2025). https://doi.org/10.1007/s10664-025-10658-6
 
-Useful paper that dives into how good various modern LLMs are at detecting security issues such as SQL injection, SSL verification, and other issues that may present itself when 1. a user asks an LLM chatbot for feedback on their code and 2. whenever the chatbot is generating code itself. The results found that all chatbot versions were NOT good at detecting issues (achieving accuracies under 35%), meaning that there needs to be some form of security issue detection. 
-
+Useful paper that dives into how good various modern LLMs are at detecting security issues such as SQL injection, SSL verification, and other issues that may present itself when 1. a user asks an LLM chatbot for feedback on their code and 2. whenever the chatbot is generating code itself. The results found that all chatbot versions were NOT good at detecting issues (achieving accuracies under 35%), meaning that there needs to be some form of security issue detection. Something that could possibly be an improvement is using a RAG-based chatbot, which contains examples of what potential security issues look like. Maybe even additional contextual examples could be helpful, and a series of api calls each searching for a particular category of issue could be beneficial as well.
 
