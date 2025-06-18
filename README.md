@@ -26,4 +26,8 @@ A review detailling various methods: traditional machine learning and more recen
 
 This tool analyzes a website's source code to check its embedded URLs and code to see if it is possibly a website used for phishing. It takes in a site's URL along with its HTML code, and then converts it into an embedding, and then uses a convolutional neural network, trained on data from Alexa, to see if it could possibly be related to phishing usage. It achieved a pretty high accuracy compared to other methods.
 
+6. Sajadi, A., Le, B., Nguyen, A. et al. Do LLMs consider security? an empirical study on responses to programming questions. Empir Software Eng 30, 101 (2025). https://doi.org/10.1007/s10664-025-10658-6
+
+Useful paper that dives into how good various modern LLMs are at detecting security issues such as SQL injection, SSL verification, and other issues that may present itself when 1. a user asks an LLM chatbot for feedback on their code and 2. whenever the chatbot is generating code itself. The results found that all chatbot versions were NOT good at detecting issues (achieving accuracies under 35%), meaning that there needs to be some form of security issue detection. 
+
 
