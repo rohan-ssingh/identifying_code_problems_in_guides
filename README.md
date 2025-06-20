@@ -4,7 +4,7 @@ This project will be exploring a tool that automatically determines if a program
 
 Based on the current literature review, an AI method to analyze the source code would be best to employ. A Chrome extension would be best employed to extract website HTML data. Website code would then be fed into an LLM. Chrome extension would be based off of https://ieeexplore.ieee.org/abstract/document/10520452.
 
-Literature Review:
+Literature Review
 
 1. https://lup.lub.lu.se/student-papers/search/publication/9178282
 
